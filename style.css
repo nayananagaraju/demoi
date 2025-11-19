@@ -37,14 +37,24 @@ input {
 button {
     width: 100%;
     padding: 10px;
+<<<<<<< HEAD
     background: #19395c;
     border: none;
     color: rgb(202, 56, 158);
+=======
+    background: #007bff;
+    border: none;
+    color: white;
+>>>>>>> css
     font-size: 16px;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
+<<<<<<< HEAD
     background: #6f95be;
+=======
+    background: #0056b3;
+>>>>>>> css
 }
